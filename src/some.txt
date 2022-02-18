@@ -1,0 +1,60 @@
+Animal Bark And Growl	
+https://actions.google.com/sounds/v1/animals/animal_bark_and_growl.ogg
+Animal Hiss And Rattle	
+https://actions.google.com/sounds/v1/animals/animal_hiss_and_rattle.ogg
+Animal Squealing	
+https://actions.google.com/sounds/v1/animals/animal_squealing.ogg
+Bee Buzz	
+https://actions.google.com/sounds/v1/animals/bee_buzz.ogg
+Buzzing Fly	
+https://actions.google.com/sounds/v1/animals/buzzing_fly.ogg
+Cat Purr	
+https://actions.google.com/sounds/v1/animals/cat_purr.ogg
+Cat Purr Close	
+https://actions.google.com/sounds/v1/animals/cat_purr_close.ogg
+Cicada Chirp	
+https://actions.google.com/sounds/v1/animals/cicada_chirp.ogg
+Crow Call	
+https://actions.google.com/sounds/v1/animals/crow_call.ogg
+Crows Caw in Field	
+https://actions.google.com/sounds/v1/animals/crows_caw_in_field.ogg
+Crows Picking and Eating	
+https://actions.google.com/sounds/v1/animals/crows_picking_and_eating.ogg
+Distant Dog Barking	
+https://actions.google.com/sounds/v1/animals/distant_dog_barking.ogg
+Dog Barking	
+https://actions.google.com/sounds/v1/animals/dog_barking.ogg
+Dog Drinking Close Up	
+https://actions.google.com/sounds/v1/animals/dog_drinking_close_up.ogg
+Dog Growling	
+https://actions.google.com/sounds/v1/animals/dog_growling.ogg
+Dog Snarling	
+https://actions.google.com/sounds/v1/animals/dog_snarling.ogg
+Dog Whining	
+https://actions.google.com/sounds/v1/animals/dog_whining.ogg
+Flies Buzzing and Circling	
+https://actions.google.com/sounds/v1/animals/flies_buzzing_and_circling.ogg
+Geese Outside	
+https://actions.google.com/sounds/v1/animals/geese_outside.ogg
+Horse Eating Grass	
+https://actions.google.com/sounds/v1/animals/horse_eating_grass.ogg
+June Songbirds	
+https://actions.google.com/sounds/v1/animals/june_songbirds.ogg
+June Songbirds With Crows	
+https://actions.google.com/sounds/v1/animals/june_songbirds_with_crows.ogg
+Mouse Squeaking	
+https://actions.google.com/sounds/v1/animals/mouse_squeaking.ogg
+Owl Hooting	
+https://actions.google.com/sounds/v1/animals/owl_hooting.ogg
+Small Dog Wimper Series	
+https://actions.google.com/sounds/v1/animals/small_dog_wimper_series.ogg
+Swarming bees	
+https://actions.google.com/sounds/v1/animals/swarming_bees.ogg
+Tentacle Flop Down	
+https://actions.google.com/sounds/v1/animals/tentacle_flop_down.ogg
+Trapped Dragon Fly	
+https://actions.google.com/sounds/v1/animals/trapped_dragon_fly.ogg
+Wasp On Window	
+https://actions.google.com/sounds/v1/animals/wasp_on_window.ogg
+Woodpecker Eating Distant	
+https://actions.google.com/sounds/v1/animals/woodpecker_eating_distant.ogg
